@@ -32,3 +32,12 @@ h2 {
 ul {
     list-style: none;
 }
+
+img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    border-radius: 40%
+
